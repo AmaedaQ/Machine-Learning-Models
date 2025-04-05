@@ -71,4 +71,3 @@ To run any of the models:
    ```
 
 3. Run the notebook for the specific project you'd like to explore.
-```
