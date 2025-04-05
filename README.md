@@ -1,3 +1,4 @@
+
 # Machine Learning Models
 
 This repository showcases a collection of machine learning models built with Python, Scikit-learn, TensorFlow, and Keras. The models span various machine learning tasks, including classification, regression, and image classification, offering hands-on examples of applying different algorithms and techniques.
@@ -62,5 +63,12 @@ To run any of the models:
    ```bash
    git clone https://github.com/AmaedaQ/Machine-Learning-Models.git
    cd Machine-Learning-Models
+   ```
 
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
+3. Run the notebook for the specific project you'd like to explore.
+```
