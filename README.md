@@ -35,7 +35,6 @@ This repository contains a collection of machine learning models implemented usi
 - **Technologies:** Python, Keras, TensorFlow.
 - **Link:** [E-commerce Product Classification](https://github.com/AmaedaQ/Machine-Learning-Models/tree/main/E-commerce-Product-Classification)
 
-## 🛠 Technologies Used
 ## ⚙️ Tech Highlights
 
 - **Languages & Tools:** Python, Jupyter Notebook  
@@ -45,6 +44,15 @@ This repository contains a collection of machine learning models implemented usi
 - **Model Architectures:** Dense Neural Networks, LSTMs  
 - **Evaluation Metrics:** Accuracy, Confusion Matrix, Validation Scores
 
+## 🛠 Technologies Used
+
+- **Python** – Core programming language for all models and data handling  
+- **Scikit-learn** – Traditional machine learning algorithms and pipelines  
+- **TensorFlow** – Deep learning framework for building and training models  
+- **Keras** – High-level API for creating and training neural networks  
+- **Pandas** – Data manipulation and preprocessing  
+- **NumPy** – Numerical operations and array manipulation  
+- **Matplotlib** – Visualization of training metrics and results
 
 ## Installation
 
